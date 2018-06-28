@@ -6,20 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.4.0 -->
-<title>Matthew Roddy | Matthew Roddy</title>
+<title>Matthew Roddy</title>
 <meta name="generator" content="Jekyll v3.7.3" />
 <meta property="og:title" content="Matthew Roddy" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Matthew Roddy" />
-<meta property="og:description" content="Matthew Roddy" />
 <link rel="canonical" href="http://localhost:4000/index.md.bak" />
 <meta property="og:url" content="http://localhost:4000/index.md.bak" />
 <meta property="og:site_name" content="Matthew Roddy" />
 <script type="application/ld+json">
-{"description":"Matthew Roddy","@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/matt_cropped.jpg"}},"url":"http://localhost:4000/index.md.bak","headline":"Matthew Roddy","@context":"http://schema.org"}</script>
+{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/matt_cropped.jpg"}},"url":"http://localhost:4000/index.md.bak","headline":"Matthew Roddy","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=5edd1c18fc301c86258596d747bc3792d240b81f">
+    <link rel="stylesheet" href="/assets/css/style.css?v=1c8ea91ed947934698c0a46b4ac074ea764bb1c2">
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -33,7 +31,7 @@
           <img src="/assets/img/matt_cropped.jpg" alt="Logo" />
         
 
-        <p>Matthew Roddy</p>
+        <p></p>
 
         
         <p class="view"><a href="http://github.com/mattroddy/mattroddy.github.io">View the Project on GitHub <small>mattroddy/mattroddy.github.io</small></a></p>

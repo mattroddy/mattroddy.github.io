@@ -3,15 +3,20 @@ layout: default
 youtubeId: 3T73g4cfG2A
 ---
 
-## About Matthew
+# About
 
-Matthew Roddy is a PhD candidate at the Electrical Engineering Department of Trinity College Dublin. His research focuses on the design of conversational turn-taking models that can aid spoken dialogue systems (SDSs) in producing naturalistic interactions.
+[[Google Scholar](https://scholar.google.com/citations?user=dol_RJ8AAAAJ&hl=en)] [[Github](https://github.com/mattroddy)] [[CV](./assets/resume.pdf)] [[LinkedIn](https://www.linkedin.com/in/matthew-roddy-45966267/)]  [[Twitter](https://twitter.com/Matt_Roddy)]
 
 
-His supervisor is Naomi Harte. 
-He is part of the Sigmedia lab and is funded by the ADAPT Centre.  
+Matthew Roddy is a PhD candidate at the Electrical Engineering Department of Trinity College Dublin. His research focuses on the design of conversational turn-taking models that can aid spoken dialogue systems (SDSs) in producing naturalistic interactions. More specifically, his work focuses on drawing information from multiple modalities to train deep learning models to predict conversational turn-taking behavior. His research incorporates elements from machine-learning, audio-visual signal processing, natural language processing, and social sciences. 
 
-[[Google Scholar](https://scholar.google.com/citations?user=dol_RJ8AAAAJ&hl=en)] [[Github](https://github.com/mattroddy)] [[LinkedIn](https://www.linkedin.com/in/matthew-roddy-45966267/)] [CV] [[Twitter](https://twitter.com/Matt_Roddy)]
+
+His supervisor is Dr. Naomi Harte. 
+He is part of the [Sigmedia Lab](http://www.mee.tcd.ie/~sigmedia/) and is funded by the [ADAPT Centre](https://www.adaptcentre.ie/). 
+
+Expected thesis submission date: Summer 2019.
+
+
 
 
 ## Publications
