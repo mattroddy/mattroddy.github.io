@@ -1,123 +1,27 @@
 ---
 layout: default
+youtubeId: 3T73g4cfG2A
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About Matthew
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Matthew Roddy is a PhD candidate at the Electrical Engineering Department of Trinity College Dublin. His research focuses on the design of conversational turn-taking models that can aid spoken dialogue systems (SDSs) in producing naturalistic interactions.
 
 
-### Definition lists can be used with HTML syntax.
+His supervisor is Naomi Harte. 
+He is part of the Sigmedia lab and is funded by the ADAPT Centre.  
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+[[Google Scholar](https://scholar.google.com/citations?user=dol_RJ8AAAAJ&hl=en)] [[Github](https://github.com/mattroddy)] [[LinkedIn](https://www.linkedin.com/in/matthew-roddy-45966267/)] [CV] [[Twitter](https://twitter.com/Matt_Roddy)]
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+## Publications
+
+* Roddy, Matthew, Gabriel Skantze, and Naomi Harte. "Investigating Speech Features for Continuous Turn-Taking Prediction Using LSTMs." INTERSPEECH, 2018. [ accepted ] [ [code](https://github.com/mattroddy/lstm_turn_taking_prediction) ]
+* Roddy, Matthew, and Naomi Harte. "Detecting conversational gaze aversion using unsupervised learning." European Signal Processing Conference (EUSIPCO), 2017. [ [pdf](https://ieeexplore.ieee.org/abstract/document/8081172/) ]
+* Roddy, Matthew, and Naomi Harte. "Towards predicting dialog acts from previous speakers’ non-verbal cues." Symposium on Multimodal Communication (MMSYM), 2017. [ [pdf](http://mmsym.org/wp-content/uploads/2017/10/MMSYM2017_paper5_RoddyHarte.pdf) ]
+* Roddy, Matthew, and Jacqueline Walker. "A Method of Morphing Spectral Envelopes of the Singing Voice for Use with Backing Vocals." DAFx, 2014. [ [pdf](http://www.dafx14.fau.de/papers/dafx14_matthew_roddy_a_method_of_morphing_spec.pdf) ]
+
+
+## Video
+
+{% include youtubePlayer.html id=page.youtubeId %}
