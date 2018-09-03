@@ -17,7 +17,7 @@
 {"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/matt_cropped.jpg"}},"url":"http://localhost:4000/index.md.bak","headline":"Matthew Roddy","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=1c8ea91ed947934698c0a46b4ac074ea764bb1c2">
+    <link rel="stylesheet" href="/assets/css/style.css?v=a66b933577c4ff07be04753b996b3c7bd886a10f">
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->

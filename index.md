@@ -21,6 +21,7 @@ Expected thesis submission date: Summer 2019.
 
 ## Publications
 
+* Roddy, Matthew, Gabriel Skantze, and Naomi Harte. "Multimodal Continuous Turn-Taking Prediction Using Multiscale RNNs." ICMI, 2018. [ accepted ] [ [pdf](http://arxiv.org/abs/1808.10785) ] [ [code](https://github.com/mattroddy/lstm_turn_taking_prediction) ]
 * Roddy, Matthew, Gabriel Skantze, and Naomi Harte. "Investigating Speech Features for Continuous Turn-Taking Prediction Using LSTMs." INTERSPEECH, 2018. [ accepted ] [ [pdf](https://arxiv.org/pdf/1806.11461.pdf) ] [ [code](https://github.com/mattroddy/lstm_turn_taking_prediction) ]
 * Roddy, Matthew, and Naomi Harte. "Detecting conversational gaze aversion using unsupervised learning." European Signal Processing Conference (EUSIPCO), 2017. [ [pdf](https://ieeexplore.ieee.org/abstract/document/8081172/) ]
 * Roddy, Matthew, and Naomi Harte. "Towards predicting dialog acts from previous speakers’ non-verbal cues." Symposium on Multimodal Communication (MMSYM), 2017. [ [pdf](http://mmsym.org/wp-content/uploads/2017/10/MMSYM2017_paper5_RoddyHarte.pdf) ]
