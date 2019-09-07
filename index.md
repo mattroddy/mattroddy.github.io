@@ -14,7 +14,7 @@ Matthew Roddy is a PhD candidate at the Electrical Engineering Department of Tri
 His supervisor is Dr. Naomi Harte. 
 He is part of the [Sigmedia Lab](http://www.mee.tcd.ie/~sigmedia/) and is funded by the [ADAPT Centre](https://www.adaptcentre.ie/). 
 
-Expected thesis submission date: Summer 2019.
+Expected thesis submission date: December 2019.
 
 
 
