@@ -5,7 +5,7 @@ youtubeId: 3T73g4cfG2A
 
 # About
 
-[[Google Scholar](https://scholar.google.com/citations?user=dol_RJ8AAAAJ&hl=en)] [[Github](https://github.com/mattroddy)] [[CV](./assets/resume.pdf)] [[LinkedIn](https://www.linkedin.com/in/matthew-roddy-45966267/)]  [[Twitter](https://twitter.com/Matt_Roddy)]
+[[Google Scholar](https://scholar.google.com/citations?user=dol_RJ8AAAAJ&hl=en)] [[Github](https://github.com/mattroddy)] [[CV](./assets/webCV.pdf)] [[LinkedIn](https://www.linkedin.com/in/matthew-roddy-45966267/)]  [[Twitter](https://twitter.com/Matt_Roddy)]
 
 
 Matthew Roddy is a PhD candidate at the Electrical Engineering Department of Trinity College Dublin. His research focuses on the design of conversational turn-taking models that can aid spoken dialogue systems (SDSs) in producing naturalistic interactions. More specifically, his work focuses on drawing information from multiple modalities to train deep learning models to predict conversational turn-taking behavior. His research incorporates elements from machine-learning, audio-visual signal processing, natural language processing, and social sciences. 
