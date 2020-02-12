@@ -14,7 +14,7 @@ Matthew Roddy is a PhD candidate at the Electrical Engineering Department of Tri
 His supervisor is Dr. Naomi Harte. 
 He is part of the [Sigmedia Lab](http://www.mee.tcd.ie/~sigmedia/) and is funded by the [ADAPT Centre](https://www.adaptcentre.ie/). 
 
-Expected thesis submission date: December 2019.
+Expected thesis submission date: January 2020.
 
 
 
@@ -23,7 +23,7 @@ Expected thesis submission date: December 2019.
 
 * Roddy, Matthew, and Naomi Harte. "Predictive Turn-Taking Decisions With POMDPs." SigDial (Late-Breaking Results), 2019. [ [pdf](http://www.cs.utep.edu/nigel/deep/Roddy-Sigdial19ss.pdf) ]
 * Roddy, Matthew, Gabriel Skantze, and Naomi Harte. "Multimodal Continuous Turn-Taking Prediction Using Multiscale RNNs." ICMI, 2018. [ [pdf](http://arxiv.org/abs/1808.10785) ] [ [code](https://github.com/mattroddy/lstm_turn_taking_prediction) ]
-* Roddy, Matthew, Gabriel Skantze, and Naomi Harte. "Investigating Speech Features for Continuous Turn-Taking Prediction Using LSTMs." INTERSPEECH, 2018. [ accepted ] [ [pdf](https://arxiv.org/pdf/1806.11461.pdf) ] [ [code](https://github.com/mattroddy/lstm_turn_taking_prediction) ]
+* Roddy, Matthew, Gabriel Skantze, and Naomi Harte. "Investigating Speech Features for Continuous Turn-Taking Prediction Using LSTMs." INTERSPEECH, 2018. [ [pdf](https://arxiv.org/pdf/1806.11461.pdf) ] [ [code](https://github.com/mattroddy/lstm_turn_taking_prediction) ]
 * Roddy, Matthew, and Naomi Harte. "Detecting conversational gaze aversion using unsupervised learning." European Signal Processing Conference (EUSIPCO), 2017. [ [pdf](https://ieeexplore.ieee.org/abstract/document/8081172/) ]
 * Roddy, Matthew, and Naomi Harte. "Towards predicting dialog acts from previous speakers’ non-verbal cues." Symposium on Multimodal Communication (MMSYM), 2017. [ [pdf](http://mmsym.org/wp-content/uploads/2017/10/MMSYM2017_paper5_RoddyHarte.pdf) ]
 * Roddy, Matthew, and Jacqueline Walker. "A Method of Morphing Spectral Envelopes of the Singing Voice for Use with Backing Vocals." DAFx, 2014. [ [pdf](http://www.dafx14.fau.de/papers/dafx14_matthew_roddy_a_method_of_morphing_spec.pdf) ]
