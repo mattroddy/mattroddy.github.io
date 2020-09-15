@@ -21,7 +21,7 @@ Expected thesis submission date: January 2020.
 
 ## Publications
 
-* Roddy, Matthew, and Naomi Harte. "Neural Generation of Dialogue Response Timings." Annual Conference of the Association for Computational Linguistics (ACL), 2020. [ [pdf](https://arxiv.org/pdf/2005.09128.pdf) ] [ [code](https://github.com/mattroddy/RTNets) ]
+* Roddy, Matthew, and Naomi Harte. "Neural Generation of Dialogue Response Timings." Annual Conference of the Association for Computational Linguistics (ACL), 2020. [ [pdf](https://www.aclweb.org/anthology/2020.acl-main.221.pdf) ] [ [code](https://github.com/mattroddy/RTNets) ]
 * Roddy, Matthew, and Naomi Harte. "Predictive Turn-Taking Decisions With POMDPs." SigDial (Late-Breaking Results), 2019. [ [pdf](http://www.cs.utep.edu/nigel/deep/Roddy-Sigdial19ss.pdf) ]
 * Roddy, Matthew, Gabriel Skantze, and Naomi Harte. "Multimodal Continuous Turn-Taking Prediction Using Multiscale RNNs." ICMI, 2018. [ [pdf](http://arxiv.org/abs/1808.10785) ] [ [code](https://github.com/mattroddy/lstm_turn_taking_prediction) ]
 * Roddy, Matthew, Gabriel Skantze, and Naomi Harte. "Investigating Speech Features for Continuous Turn-Taking Prediction Using LSTMs." INTERSPEECH, 2018. [ [pdf](https://arxiv.org/pdf/1806.11461.pdf) ] [ [code](https://github.com/mattroddy/lstm_turn_taking_prediction) ]
