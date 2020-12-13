@@ -7,15 +7,7 @@ youtubeId: 3T73g4cfG2A
 
 [[Google Scholar](https://scholar.google.com/citations?user=dol_RJ8AAAAJ&hl=en)] [[Github](https://github.com/mattroddy)] [[CV](./assets/webCV.pdf)] [[LinkedIn](https://www.linkedin.com/in/matthew-roddy-45966267/)]  [[Twitter](https://twitter.com/Matt_Roddy)]
 
-
-Matthew Roddy is a PhD candidate at the Electrical Engineering Department of Trinity College Dublin. His research focuses on the design of conversational turn-taking models that can aid spoken dialogue systems (SDSs) in producing naturalistic interactions. More specifically, his work focuses on drawing information from multiple modalities to train deep learning models to predict conversational turn-taking behavior. His research incorporates elements from machine-learning, audio-visual signal processing, natural language processing, and social sciences. 
-
-
-His supervisor is Dr. Naomi Harte. 
-He is part of the [Sigmedia Lab](http://www.mee.tcd.ie/~sigmedia/) and is funded by the [ADAPT Centre](https://www.adaptcentre.ie/). 
-
-Expected thesis submission date: January 2020.
-
+I'm a research scientist with a focus on machine learning for speech technologies. I received my PhD from the Electrical Engineering Department of Trinity College Dublin under the supervision of Dr. Naomi Harte. I have published first-author papers at a number of top-tier conferences such as ACL, Interspeech, ICMI, and Eusipco. I have also acted as a reviewer for conferences such as ICASSP and ICMI. My PhD topic was on the design of conversational turn-taking models for spoken dialogue systems (SDSs). More specifically, my PhD focused on extracting information from multiple modalities to train deep learning models that predict conversational turn-taking behaviors. The research incorporates elements from pure machine-learning, natural language processing, audio-visual signal processing, and social sciences. During my PhD I was part of the [Sigmedia Lab](http://www.mee.tcd.ie/~sigmedia/) and my work was funded by the [ADAPT Centre](https://www.adaptcentre.ie/). 
 
 
 
