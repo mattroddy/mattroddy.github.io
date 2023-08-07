@@ -9,7 +9,8 @@ youtubeId: 3T73g4cfG2A
 
 I'm a research scientist with a focus on machine learning for speech technologies. I received my PhD from the Electrical Engineering Department at Trinity College Dublin under the supervision of Dr. Naomi Harte. I have published first-author papers at a number of top-tier conferences such as ACL, Interspeech, ICMI, and Eusipco. I have also acted as a reviewer for conferences such as ICASSP, Interspeech, and ICMI. My PhD topic was on the design of conversational turn-taking models for spoken dialogue systems (SDSs). More specifically, my PhD focused on extracting information from multiple modalities to train deep learning models that predict conversational turn-taking behaviors. The research incorporates elements from pure machine-learning, natural language processing, audio-visual signal processing, and social sciences. During my PhD I was part of the [Sigmedia Lab](http://www.mee.tcd.ie/~sigmedia/) and my work was funded by the [ADAPT Centre](https://www.adaptcentre.ie/). 
 
-
+## PhD Thesis
+* "Neural Turn-Taking Models for Spoken Dialogue Systems." Trinity College Dublin, 2021. [ [pdf](http://www.tara.tcd.ie/bitstream/handle/2262/96251/mroddy_thesis_rev_6.pdf?sequence=3) ]
 
 ## Publications
 
