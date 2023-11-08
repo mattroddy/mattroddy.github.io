@@ -5,7 +5,7 @@ youtubeId: 3T73g4cfG2A
 
 # About
 
-[[Google Scholar](https://scholar.google.com/citations?user=dol_RJ8AAAAJ&hl=en)] [[Github](https://github.com/mattroddy)] [[CV](./assets/mroddyCV.pdf)] [[LinkedIn](https://www.linkedin.com/in/matthew-roddy-45966267/)]  [[Twitter](https://twitter.com/Matt_Roddy)]
+[[Google Scholar](https://scholar.google.com/citations?user=dol_RJ8AAAAJ&hl=en)] [[Github](https://github.com/mattroddy)] [[CV](./assets/mroddyCVv02.pdf)] [[LinkedIn](https://www.linkedin.com/in/matthew-roddy-45966267/)]  [[Twitter](https://twitter.com/Matt_Roddy)]
 
 I'm a research scientist with a focus on machine learning for speech technologies. I received my PhD from the Electrical Engineering Department at Trinity College Dublin under the supervision of Dr. Naomi Harte. I have published first-author papers at a number of top-tier conferences such as ACL, Interspeech, ICMI, and Eusipco. I have also acted as a reviewer for conferences such as ICASSP, Interspeech, and ICMI. My PhD topic was on the design of conversational turn-taking models for spoken dialogue systems (SDSs). More specifically, my PhD focused on extracting information from multiple modalities to train deep learning models that predict conversational turn-taking behaviors. The research incorporates elements from pure machine-learning, natural language processing, audio-visual signal processing, and social sciences. During my PhD I was part of the [Sigmedia Lab](http://www.mee.tcd.ie/~sigmedia/) and my work was funded by the [ADAPT Centre](https://www.adaptcentre.ie/). 
 
